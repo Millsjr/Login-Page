@@ -1,3 +1,12 @@
+<html>
+  <head>
+  </head>
+
+<body style="background-color:#0FD000;">
+  
+  
+</body>
+  
 # Login-Page
 
 Simple Login Page 
@@ -8,3 +17,5 @@ Simple Login Page
 - HTML
 - CSS
 - JavaScript
+
+</html>
